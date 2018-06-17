@@ -1,0 +1,6 @@
+---
+applications:
+- name: sheriff
+  memory: 512M
+  instances: 1
+  random-route: true

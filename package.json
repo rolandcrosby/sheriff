@@ -14,7 +14,7 @@
     "node-emoji": "^1.7.0"
   },
   "engines": {
-    "node": "8.1.x"
+    "node": "8.11.x"
   },
   "repository": {
     "url": "https://glitch.com/edit/#!/welcome-project"
